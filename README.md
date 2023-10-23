@@ -12,7 +12,7 @@ To run this project, you need to have the following dependencies installed:
 
 ## Screeshot 
 picture of the workflow:
-![Alt Workflow](./success.png) 
+![Alt Workflow](./success.PNG) 
 
 ## Installation
 1. Clone the repository to your local machine:
