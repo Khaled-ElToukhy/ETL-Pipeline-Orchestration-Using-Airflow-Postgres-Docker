@@ -11,8 +11,8 @@ To run this project, you need to have the following dependencies installed:
 * pandas
 
 ## Screeshot 
-picture of the workflow
-![Alt Workflow](./success.png)
+picture of the workflow:
+![Alt Workflow](./success.png) 
 
 ## Installation
 1. Clone the repository to your local machine:
